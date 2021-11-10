@@ -643,7 +643,7 @@ img {
   position: relative;
   z-index: 1;
   background: transparent;
-  height: 99vh;
+  height: auto 99vh;
   display: flex;
   justify-content: center;
   align-items: center;
